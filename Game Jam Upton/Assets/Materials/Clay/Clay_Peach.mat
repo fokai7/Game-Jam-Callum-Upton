@@ -21,14 +21,13 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Clay_Peach
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: f89b7dbc51e2cfc4bbfcf3cbf7e7ffac, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
-  stringTagMap:
-    RenderType: Opaque
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -90,6 +89,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Boolean_1c31d1268f864b5485f5a7c8ca39e893: 0
+    - Vector1_02582304f6144e2e8ba50056d3153aab: 0.2
+    - Vector1_5db51984371b40bf867a1353184f1cc5: 1
+    - Vector1_6b9ac69672eb418d84a2a129987eba76: 1
+    - Vector1_7eb86a3c90764bb6ae51e078000e6149: 4
+    - Vector1_8099537b97364d36ae6fae1906c0f9e6: 5
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -117,6 +122,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_55de6d96c049474da14cf24197f15423: {r: 0.9716981, g: 0.8274078, b: 0.5087664, a: 0}
+    - Color_6c90f50bafaa4898a8c8c4d187d0c384: {r: 1, g: 0.5320771, b: 0.28627458, a: 0}
+    - Vector2_36740b7e0cc64362a30d0fda09a8bd38: {r: 2, g: 2, b: 0, a: 0}
+    - Vector2_36b7ae13c8a44632bab9817b577c1c63: {r: 2, g: 2, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
